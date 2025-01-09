@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-We are so back!! My GitHub is going to look so cool and fire and I'm going to land co-ops at Nvidia and Google and Apple (I'm literally just uploading old projects and adding descriptions)
+Welcome to my GitHub :)
 
 ### Currently working on:
 - The Man in the Moon video game
