@@ -1,24 +1,15 @@
-## Hiiiii ヾ(^▽^*)))
-
-<!--
-**jennnniferkuang/jennnniferkuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello my little sigmas
 
 Welcome to my GitHub :)
+I'm Jen, a first-year software engineering student at the University of Waterloo, currently on my FIRST co-op work term!!! I like playing/making video games and art and music and concerts and going outside (shocker) and skiing and biking and exploring (basically everything except for engineering my software but I do plenty of that too)
 
 ### Currently working on:
-- The Man in the Moon video game
-- Raspberry Pi AI voice assistant
-- Study assistant Chrome extention
+- Mobile stray sender app (bully ur friends! lovingly!)
 - Portfolio site :)
+- The Man in the Moon
+
+### Currently obsessed with:
+- Devil May Cry (I'm feeling so motivated berrying my delight and wahooing)
+- The band Friday Pilots Club
+- Painting tote bags
+- How To Train Your Dragon (again!)
